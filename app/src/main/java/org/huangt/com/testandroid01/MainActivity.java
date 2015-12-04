@@ -14,7 +14,9 @@ import cn.bmob.v3.Bmob;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.listener.FindListener;
 
-
+/**
+ * 该页面为主页面，查询列表
+ */
 public class MainActivity extends BaseActivity{
     private final static String appKey = "ab6736f32350a8dd77c1a3012acffa22";
     private ListView lv_students;
